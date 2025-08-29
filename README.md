@@ -16,4 +16,7 @@
 - Note inbound and outbound to plasma environment.
 - Mars has crustal magnetic field (remains at the moment when Mars loses it's global magnetic field).
 - For magnetic dipole, B field always proportional to 1/r^3. Any B field can bre represented as a gradient of a scalar potential. Can model any magnetic source as a dipole. If Btotal increases, means getting close to a source (localized crustal magnetic field on the surface of Mars -- in the Southern Hemisphere, localized at 1 region).
-- International Geomagnetic Reference Field (generic equation for magnetic field). Expand first order term will get magnetic field of a dipole. So easiest to model sources as dipoles. 
+- International Geomagnetic Reference Field (generic equation for magnetic field). Expand first order term will get magnetic field of a dipole. So easiest to model sources as dipoles. At great distance, more likely to detect as dipole. Go closer to take more sensitive measurements of higher order terms.
+- Earth's polarity reverses every 10,000 years.
+- Dipole moment free to move around in molten state. When cools down, become solid. Locking dipole moment in 1 direction. New magma comes out, Earth's magnetic field pointing in other direction, now magentic field all points in other direction except solidified states that spread out and B field pointing in opposite direction.
+- Don't see crustal magnetic field on Venus due to high tectonic activity. 

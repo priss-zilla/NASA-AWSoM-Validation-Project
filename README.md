@@ -20,3 +20,10 @@
 - Earth's polarity reverses every 10,000 years.
 - Dipole moment free to move around in molten state. When cools down, become solid. Locking dipole moment in 1 direction. New magma comes out, Earth's magnetic field pointing in other direction, now magentic field all points in other direction except solidified states that spread out and B field pointing in opposite direction.
 - Don't see crustal magnetic field on Venus due to high tectonic activity. 
+
+## 5/9/2025 Meeting
+- Load and plot AWSoM model data files.
+- By end of this semester, get to the point where we can start analyzing the data itself, go beyond plotting. Using stats techniques learnt in mathematics class to compare data.
+- Mid-term goal to stack plots properly, plot data out together.
+- Simulation data all in text data.
+- Gang Kai will send email on what each column means. 

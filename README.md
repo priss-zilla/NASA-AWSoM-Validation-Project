@@ -47,4 +47,20 @@
 - For protons, after crossing bow shock, red line broadens because protons heat up and fluctuate more. 2 types of bow shocks. 1 is sharper increase, 1 is gentler. Sonic mach number (of solar wind of speed of sound in solar wind) changes, bow shock moves in and out. Move faster than spacecraft. Causes small region of solar wind (non-fluctuating part) to appear in the middle of fluctuations.
 - Try plotting Iowa professor's solar wind data. Both plasma and B field data. Look at density, temperature, velocity. Plot those data in the specific carrington rotation for simulation data sent to me. Plot in 2 seperate stacked data. From actual data then can identify magnetosphere regions.
 - Google which carrington rotation AWSoM model data is in. Find out which date to which date. Simulation data will give 1-2 days before and after, so find exact dates.
-- Come in through University of Maryland, Baltimore County, UMD College Park, Howard University, George Mason University. 
+- Come in through University of Maryland, Baltimore County, UMD College Park, Howard University, George Mason University.
+
+## 26/9/2025 Meeting
+- Reproduce Carrington Rotation CR2234 plots from slides.
+- Dotted red line higher than solid red line. Last 2 columns of data is Io1 and Io2 so far just known as parameters with units of wave energy density. Don't know physical meaning. (Alfven wave energy density). There is formula to combine the 2. E field and B field perpendicular to each other. EM waves carry EM energy. Direction of propagation of energy is the Poynting vector. Magnitude of poynting vector is poynting flux energy density.
+- Io1 + Io2 = total wave energy density = sum of kinetic wave energy + magnetic energy density (No electrostatic energy density because Alfven wave is pertrubations in magnetic field along magnetic field lines without electric fields). Alfven wave used to heat solar corona which expands into SW. du means change in velocity. dB cannot be translated into components. Io1 and Io2 have no direction. dB contains no info of direction, also only a scalar value. R
+- Red dash line is total B field with Io1 and Io2 added. Solid red line is total B field without parameters. Black line is MAVEN detected total B field. Red lines are AWSoM predictions.
+- Don't hard code, soft code to take in CR number and inputs from AWSoM files. Must be able to take in all the CRs.
+- No bow shock on the mmon.
+- Magnetic field lines prevented from penetrating through conductor. Take very long to diffuse.
+- Comet as tail points radially from the sun.
+- Go through L11 induced magentosphere to understand Mars interaction with magentic field (similar to Venus).Mars has crustal magentic field.
+- How is Saturn so symmetric despite being a gas giant?
+- Everything is governed by B field interaction.
+- Planterary B field, ch10, cho11
+- Go through everthing in Heliophysics.
+- J1 visa is exchange scholar visa. Need at least bachelor degree. Only way is to get F1 visa using exchange programme. 

@@ -78,3 +78,6 @@ I = db^2/mu_0 (well, if we already know that turbulent kinetic energy is equal t
 So this formula can give an estimate of db, the total magnetic field is then given by
 B^2 = B_average^2 + db^2
 B_average is the average magnetic field simulated in MHD (bx by bz in the file).
+
+## Meeting 1/10/2025
+- Lectures 3-9, 11 (most important)

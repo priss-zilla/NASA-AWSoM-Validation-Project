@@ -63,4 +63,18 @@
 - Everything is governed by B field interaction.
 - Planterary B field, ch10, cho11
 - Go through everthing in Heliophysics.
-- J1 visa is exchange scholar visa. Need at least bachelor degree. Only way is to get F1 visa using exchange programme. 
+- J1 visa is exchange scholar visa. Need at least bachelor degree. Only way is to get F1 visa using exchange programme.
+
+## Update on Tasks 1/10/2025 
+- Plotted Carrington Rotation C2334 for AWSoM data sent to me by Gang Kai and MAVEN data by Uni of Iowa professor https://homepage.physics.uiowa.edu/~jhalekas/drivers.html
+- Did unit conversions for AWSoM data according to email details sent my Gang Kai.
+- Did conversion from eV to K for MAVEN data.
+- To clarify: Proton temp = ion temp?
+- Comment on data plots: Dashed line for B field magnitude with wave energy parameters matches original B field exactly (does not follow slides despite following Gang Kai's equations below. Problem with db^2 being too small?). All AWSoM data does not capture subtle patterns in slides (but rough overall patterns are there). MAVEN data matches slides perfectly. 
+
+I = I01+I02 = 1/2*rho*du^2 (the kinetic energy) + 1/2 db^2/mu_0 (the magnetic energy)
+and du = db/sqrt(mu_0 * rho) (the Alfven wave equation), then we can get
+I = db^2/mu_0 (well, if we already know that turbulent kinetic energy is equal to the magnetic energy, we can skip all the derivations)
+So this formula can give an estimate of db, the total magnetic field is then given by
+B^2 = B_average^2 + db^2
+B_average is the average magnetic field simulated in MHD (bx by bz in the file).

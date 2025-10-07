@@ -84,7 +84,7 @@ B_average is the average magnetic field simulated in MHD (bx by bz in the file).
 - Next step is to interpolate MAVEN data.
 - Plots match well! AWSoM data given was for ADAPT-HMI.
 - AWSoM got more data points so lines look smoother
-- Numerical thing will linearly interpolate lacking MAVEN data points based on AWSoM dara poinrs by creating linear functions for time data points to match AWSoM's. At the end, MAVEN will have same no. of data points as AWSoM.
+- Numerical thing will linearly interpolate lacking MAVEN data points based on AWSoM data points by creating linear functions for time data points to match AWSoM's. At the end, MAVEN will have same no. of data points as AWSoM.
 - Code for interpolation already done up by Python. Quadratic, cubic interpolations etc. Limitations of higher order interpolations is that they will give you functions that vary a lot. Need to use instincts to see whether interpolation is good. Use naked eyes to see if interpolation makes sense (best-fit, not too many fluctuations). Can try find numerical code that gives best-fit interpolation.
 - Need same number of data points to compare euclidean distances for every data point pair.
 - Dynamic time warping python code exists. Do this after interpolation.
@@ -93,3 +93,7 @@ B_average is the average magnetic field simulated in MHD (bx by bz in the file).
 - Interpolations is different from smoothing. Gang Kai's plots not smoothed out.
 - Smoothing (type of signal processing): Can and don't need to downsize data points, low-pass filter (filter out high frequency fluctuations), moving boxcar averages. Find ready packages to use.
 - For now, AWSoM can only simulate fluctuations across a few days. So we remove higher frequency fluctuations in MAVEN data to match with AWSoM data. 
+
+(Linear interpolation drawing) ![C865A133-119B-4119-9A82-55DDC15E69CC_1_105_c](https://github.com/user-attachments/assets/b64bbc40-1e04-430f-9cff-ecc4786d44aa)
+(Quadratic intepolation drawing) ![B574E8F9-E338-4CF8-928A-9C496F97253B](https://github.com/user-attachments/assets/b9156ea3-ede5-4349-926a-669fdf64ea09)
+(Dynamic Time Warping drawing) ![0A9FF8B4-7435-41AE-A9E8-88CE54E79FA5_1_105_c](https://github.com/user-attachments/assets/f1a83a09-3266-496b-8a87-85a5864c4e06)

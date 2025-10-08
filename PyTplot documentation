@@ -1,1 +1,12 @@
+## PYSPEDAS INSTALLATION ##
+!pip install pyspedas
 
+import numpy as np
+import pandas as pd
+import pyspedas
+import pytplot
+from pytplot import tplot
+
+#import magnetic field data from Feb 1 2025 to Feb 3 2025
+mag_vars = pyspedas.projects.maven.mag(trange=['2025-02-01', '2025-02-03']) 
+print(pytplot.tplot_names())

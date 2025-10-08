@@ -102,3 +102,7 @@ B_average is the average magnetic field simulated in MHD (bx by bz in the file).
 - Tried 2 methods of interpolation in Python: interp1d and pChip.
 - interp1d gives too drastic fluctuations, very bad interpolations for all 'kinds' including quadratic and cubic.
 - pChip is better, but fluctuations still obvious in B field plot, different from Gang Kai's plots
+
+Logistics: 
+Must still register under F1 visa. J1 visa can only for graduates to be visiting scholar. So must go through university. Goddard is not a private company, so cannot go through J1 visa. 
+Need to know what OEP will pay for. 

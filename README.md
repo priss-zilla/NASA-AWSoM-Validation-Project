@@ -106,3 +106,4 @@ B_average is the average magnetic field simulated in MHD (bx by bz in the file).
 Logistics: 
 Must still register under F1 visa. J1 visa can only for graduates to be visiting scholar. So must go through university. Goddard is not a private company, so cannot go through J1 visa. 
 Need to know what OEP will pay for. 
+Contact GEM discoverer first regarding if they got any programme with UoM.

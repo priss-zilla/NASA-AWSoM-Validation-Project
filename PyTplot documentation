@@ -10,3 +10,66 @@ from pytplot import tplot
 #import magnetic field data from Feb 1 2025 to Feb 3 2025
 mag_vars = pyspedas.projects.maven.mag(trange=['2025-02-01', '2025-02-03']) 
 print(pytplot.tplot_names())
+
+tplot('OB_B_2025032ss')
+tplot('POSN_2025032ss')
+
+#1st Plot: Magnetic Field Magnitude / nT vs Time at 3 hr intervals from Feb-01 to Feb-02
+#2nd Plot: Average Position / km of MAVEN vs Time at 3 hr intervals from Feb-01 to Feb-02
+
+#No units given?? Nope.
+#Can normalize distances to radius of Mars.
+#Mars-Sun-Orbital Coordinate System to measure distance of MAVEN. x in Mars sun-line, y in Mars orbital plane, Z completes right-hand coordinate system. Distance of centre of Mars to the spacecraft.
+
+mag_vars = pyspedas.projects.maven.kp(trange=['2025-02-01', '2025-02-03'])
+#Why no kp data? Backend index that we don't need to use. Stands for key parameters. Just to help look at data very quickly
+
+pytplot.data_quants['OB_B_2025032ss']
+
+#plot_options: Contains plotting configuration (axis labels, ranges, etc.).
+#Crucially, the *links* attribute shows which variables are linked to this data:
+#alt: Altitude → mvn_kp::spacecraft::altitude
+#x, y, z: MSO coordinates → mvn_kp::spacecraft::mso_x, etc.
+#geo_x, geo_y, geo_z: GEO coordinates
+#lon, lat: Sub-spacecraft longitude/latitude
+#This means PyTplot automatically links the magnetic field data to the spacecraft's position data.
+#What does sub-spacecraft mean?
+#What does time: 2764864 mean?
+
+#Stack plot of Bx, By, Bz and |B|
+import matplotlib.pyplot as plt
+from pytplot import get_data
+import pandas as pd
+import numpy as np
+
+# Extract data from tplot
+time, data = get_data('OB_B_2025032ss')
+
+# Convert time to datetime
+time = pd.to_datetime(time, unit='s')
+
+# Split the three components
+Bx, By, Bz = data[:, 0], data[:, 1], data[:, 2]
+
+# Compute total magnetic field magnitude
+B_total = np.sqrt(Bx**2 + By**2 + Bz**2)
+
+# Create stacked plots (now 4 rows)
+fig, axs = plt.subplots(4, 1, figsize=(12, 10), sharex=True)
+
+axs[0].plot(time, Bx, color='r')
+axs[0].set_ylabel("Bx [nT]")
+axs[0].set_title("MAVEN MAG Components")
+
+axs[1].plot(time, By, color='g')
+axs[1].set_ylabel("By [nT]")
+
+axs[2].plot(time, Bz, color='b')
+axs[2].set_ylabel("Bz [nT]")
+
+axs[3].plot(time, B_total, color='k')
+axs[3].set_ylabel("|B| [nT]")
+axs[3].set_xlabel("Time")
+
+plt.tight_layout()
+plt.show()

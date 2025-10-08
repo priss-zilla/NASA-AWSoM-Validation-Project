@@ -97,3 +97,8 @@ B_average is the average magnetic field simulated in MHD (bx by bz in the file).
 (Linear interpolation drawing) ![C865A133-119B-4119-9A82-55DDC15E69CC_1_105_c](https://github.com/user-attachments/assets/b64bbc40-1e04-430f-9cff-ecc4786d44aa)
 (Quadratic intepolation drawing) ![B574E8F9-E338-4CF8-928A-9C496F97253B](https://github.com/user-attachments/assets/b9156ea3-ede5-4349-926a-669fdf64ea09)
 (Dynamic Time Warping drawing) ![0A9FF8B4-7435-41AE-A9E8-88CE54E79FA5_1_105_c](https://github.com/user-attachments/assets/f1a83a09-3266-496b-8a87-85a5864c4e06)
+
+## Task Updates 8/10/2025 ##
+- Tried 2 methods of interpolation in Python: interp1d and pChip.
+- interp1d gives too drastic fluctuations, very bad interpolations for all 'kinds' including quadratic and cubic.
+- pChip is better, but fluctuations still obvious in B field plot, different from Gang Kai's plots

@@ -128,3 +128,5 @@ Part 1: Test data when Mars and Earth are magnetically aligned. Test hypothesis 
 Part 2: Earth and Mars sometimes magnetically connected and disconnected. But what happens when they are both not radially aligned and not magnetically connected. 
 Part 3: Find an event where Earth and Mars is aligned, if there is a CME going through Earth and Mars. See if arrival time at Mars predicted by AWSoM is the same as what was observed by data. CME goes in straight line, does not care if planets are magnetically connected or not. If Earth and Mars are not aligned but CME goes through Mars, see whether CME predictions by AWSoM with Earth inputs are accurate. Also see if magntiude as predicted by the model itself is the same as what was observed on Earth and Mars. 
 
+Task for this week: Attempt Euclidean matching between 2 curves (AWSoM and interpolated MAVEN). Try time warping matching. Code on GitHub for time warping sent to me. 
+

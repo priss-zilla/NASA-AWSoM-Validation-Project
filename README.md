@@ -107,3 +107,19 @@ Logistics:
 Must still register under F1 visa. J1 visa can only for graduates to be visiting scholar. So must go through university. Goddard is not a private company, so cannot go through J1 visa. 
 Need to know what OEP will pay for. 
 Contact GEM discoverer first regarding if they got any programme with UoM.
+
+## Meeting 15/10/2025
+
+For CR2235, Mars and Earth and Sun are radially aligned, Mars is on the Earth-Sun line. Magnetic field data not good due to poor Earth and Mars magnetic connection, input from Earth to generation Mars predictions is bad. But solar wind data is good so plasma data is good. We have not tested/proven when Mars and Earth are magnetically aligned, how is their comparison. We have only proven that when they're radially aligned, the magnetic field comparison is terrible.  Parker spiral so solar wind 
+xyz coordinates are wrt to Earth. x is in Sun-Earth line, radial coordinate equivalent. Satellite measure negative B field first then positive B field. Opposite magnetic fields connect somewhere at infinity, produces a curl that using RHR, current points outwards. Heliospheric current sheet. Wavers around like a ballerina skirt. At solar maximum, skirt becomes very complex. But at solar minimum it's well-defined. CR2234 at solar minimum. Bx, By, Bz doesn't fluctuate a lot. 
+Solar minimum --> don't see a lot of sunspots on surface of sun
+Solar maximum --> see a lot. 
+High speed streams: pocket of solar wind moving very fast. Will catch up with slower solar wind. Compress together to create compression solar wind region. 
+Do not need a coronal mass ejection to cause a geomagnetic storm. Compression region can also cause geo storm. Occurs a lot more oftern than CME. Sun rotating so high speed stream structure will hit spacecraft. 
+See more interplanetary shocks on planets further from sun. Cause geomagnetic storms. Occurs when fast SW compresses slow SW. Creates a forward and reverse shock (behind fast SW there is rarefaction, low plasma density). Release of pressure happens when spacecraft goes through reverse shock. Shock can accelerate particles to become solar energetic particles. 
+CR2235 does not really experience shocks as it is in quieter region of solar wind speed during sun's rotation. 
+Parker spiral formed by interplanetary magnetic field line.
+SW velocity the same in radial direction, strongest component in x, not much variation in y or z direction. As sun rotates, magnetic field lines will form the parker spiral. PLasma itself does not do this spiral motion. 
+If the sun were not moving, magnetic field will go out radially. But solar wind only just always go out radially. 
+It is always the plasma that controls magnetic field. 
+Since B field is connected to Sun, shape will change, will no longer go out radially. Parker spiral indicates whether planets are magnetically connected. 

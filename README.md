@@ -123,3 +123,8 @@ SW velocity the same in radial direction, strongest component in x, not much var
 If the sun were not moving, magnetic field will go out radially. But solar wind only just always go out radially. 
 It is always the plasma that controls magnetic field. 
 Since B field is connected to Sun, shape will change, will no longer go out radially. Parker spiral indicates whether planets are magnetically connected. 
+Magnetic field and ballerina skirt permeate entire space. 
+Part 1: Test data when Mars and Earth are magnetically aligned. Test hypothesis that B field comparison is better. 
+Part 2: Earth and Mars sometimes magnetically connected and disconnected. But what happens when they are both not radially aligned and not magnetically connected. 
+Part 3: Find an event where Earth and Mars is aligned, if there is a CME going through Earth and Mars. See if arrival time at Mars predicted by AWSoM is the same as what was observed by data. CME goes in straight line, does not care if planets are magnetically connected or not. If Earth and Mars are not aligned but CME goes through Mars, see whether CME predictions by AWSoM with Earth inputs are accurate. Also see if magntiude as predicted by the model itself is the same as what was observed on Earth and Mars. 
+

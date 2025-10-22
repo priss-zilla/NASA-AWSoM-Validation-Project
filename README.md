@@ -130,3 +130,18 @@ Part 3: Find an event where Earth and Mars is aligned, if there is a CME going t
 
 Task for this week: Attempt Euclidean matching between 2 curves (AWSoM and interpolated MAVEN). Try time warping matching. Code on GitHub for time warping sent to me. GK will send 2235. Do same thing as 2234. 
 
+## Meeting 22/10/2025 ##
+URECA grant should cover flights, lodging, food. 
+European Geophysical Conference in Vienna. Nice place to travel solo. 3 - 8 May. Deadline of abstract submission in January 15. 
+- Come up with metric to compare the 2 curves.
+- To calculate Euclidean distance, need to remove fluctuations with period of 1 day. Things fluctuating in AWSoM data are in 2-3 days. What is the cut-off frequency of fluctuations?
+- Low-pass filter: filter out high frequencies. Use FFT to transform into frequency domain, then select the frequency, zero out the power for the higher frequency then inverse fourier transform back. If signal is periodic, LPF would be good. When doing FFT, look at power in frequency domain, if have very strong signal look at peak in power. We want to keep lower frequencies with higher powers. Plot power as function of frequency with log scale. Some higher frequencies may give spikes in powers which need to be filtered out. If power spectrum does not show obvious threshold to cut off, then use moving boxcar. 
+- Also look into moving box car average, easier than LPF.
+- Further smooth out MAVEN data first being doing Euclidean matching. 
+- don't have to weight nor normalize for 4 seperate variables Euclidean distances. Then figure out how to optimise weights when combining Euclidean distances. What is your rationale behind using certain weights? Should it go to the variable with lowest or highest agreement with MAVEN data?
+- GK will send me a couple of papers regarding point-to-point comparison metrics.
+- Look at what methods the papers use to compare observations and predictions on Earth. We are trying with Euclidean first as everyone uses that in the beginning. If you can a better metric of comparison, use that instead.
+- For DTW to work, interval between indexes must be the same. So doing warping for indexes is also doing warping for time. My DTW is mapping in an unintuitive way.
+- Look at paper and Github sent to me to look at how to properly do DTW.
+https://iopscience.iop.org/article/10.3847/1538-4357/ac4af6
+https://github.com/SamaraEvangelia/DTW_ForSolarWindEvaluation

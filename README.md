@@ -170,4 +170,10 @@ Meeting 7/11/2025:
 - Weight is a concept only where there is gravity. 
 - Nothing to show on the science part. So investor's get annoyed.
 - A lot of companies in SG have space background. Founder of SG hall thrusters Aliena has PhD in plasma propulsion. Most successful local SG company. SG satellites want propulsion systems put on them. Need to launch at high altitude where orbit is stable. Have a lot of investors. Featured in NASA list of global tech companies.
-- singapore got companies trying to build rocket labs. up to 2 years ago still trying to get system working, never build rocket, so not sustainable. space tech is very capital intensive. Aliena company trying to get people to invest in very low earth orbit. 
+- singapore got companies trying to build rocket labs. up to 2 years ago still trying to get system working, never build rocket, so not sustainable. space tech is very capital intensive. Aliena company trying to get people to invest in very low earth orbit.
+- ST Engineering trying to set up space situational awareness office. Austin trying to collaborate with ST engineering.
+- Article about space-tech bubble GK will send me. Don't fall into over-hyping trend that is happening in private space-tech companies.
+- Spectra Q does quantum encrypting for space communication.
+- space-tech takes time and a lot of money to get there. that's why a lot of them fail, we only hear the survivors. 
+- people don't know how companies who succeed first fail.
+- our generation has the potential to combine science and business. 

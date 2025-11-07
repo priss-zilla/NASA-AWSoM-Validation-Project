@@ -145,3 +145,26 @@ European Geophysical Conference in Vienna. Nice place to travel solo. 3 - 8 May.
 - Look at paper and Github sent to me to look at how to properly do DTW.
 https://iopscience.iop.org/article/10.3847/1538-4357/ac4af6
 https://github.com/SamaraEvangelia/DTW_ForSolarWindEvaluation
+
+Meeting 7/11/2025:
+- Check J-1 visa stuff. Need to know how to initiate, is it expensive.
+- UMaryland leading consortium of universities for astrophysics research. Heliophysics led by CUA.
+- without the science, cannot get tech companies to do what they want to do. Are there observatories
+- SpaceX and BlueOrigin don't have the tech to go to moon and Mars. Can launch a rocket, but getting to the moon safely is a hurdle. Commercial landers got lost before. Lander might not land properly.
+- Also environment of object to land.
+- How people can set up base there.
+- How the envt changes on the lunar surface.
+- No private science companies, but supported by NASA science only. If got 1 billion dollars, prefer to something that gives direct return. SpaceX has starlink whic is commercial site of work. If only focused on going to the moon, money will dry.
+- Investors don't see the science, only the tech.
+- Scientists are not good at trying to convince people. Sell how space weather is going to affect billionaire investor's business. Starlink screws up because engineer don't have the engineering expertise or science expertise to build them to last.
+- Space situation awareness.
+- Nobody knows what is happening in the equatorial region. Underground cables blow up due to increased currents during geomagnetic storms.
+- Airplanes during geomagnetic storms, lost contact for couple of mins with the tower. There is deviation between original flight path, this is normal storm.
+- There are ships that get lost, may be related to geomagnetic activities. Ships rely on GPS, if GPS leads them astray, they are going to turn. If can get hold of position during geomagnetic storm, cause paths to deviate. But companies haven't complained. Hasn't been proven that is actually because of geo storms.Tens or thousands and shipping routes over few days, too much data.
+- A lot of research done by govt, public institutions. Industry uses info from government. Amount of money charge per hour is crazy for consulting. DSTA and MINDEF have a whole movement trying to be more aware of what space is.
+- There is a highly optimistic space tech bubble about what private space companies can give.
+- The way spacetech companies run is unsustainable. SpaceX investing in rockets, but holistically, need engineering, need people who know lunar surface. Private companies only do one small part.
+- NASA trying to link science to commercial side, e.g. nasa commercial space programme. Tech company lacks knowledge on science, payload from nasa. Commercial lunar payload. Commercial lunar payload services. Trying to combine commericial tech with nasa tech and science. Not really taking off, science and tech collaborating is very difficult. NASA looking for lower costs ways to do space exploration.
+- Tech companies can try these stuff, but payloads for measuring stuff need science. Instruments' PI are always scientist.
+- Landing on earth is all earth gravity, full of atmosphere. But on moon, don't have atmosphere, poor gravity. Cannot be fully prepared, need risk assessment.
+- Weight is a concept only where there is gravity. 

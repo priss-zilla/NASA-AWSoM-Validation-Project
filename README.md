@@ -168,3 +168,6 @@ Meeting 7/11/2025:
 - Tech companies can try these stuff, but payloads for measuring stuff need science. Instruments' PI are always scientist.
 - Landing on earth is all earth gravity, full of atmosphere. But on moon, don't have atmosphere, poor gravity. Cannot be fully prepared, need risk assessment.
 - Weight is a concept only where there is gravity. 
+- Nothing to show on the science part. So investor's get annoyed.
+- A lot of companies in SG have space background. Founder of SG hall thrusters Aliena has PhD in plasma propulsion. Most successful local SG company. SG satellites want propulsion systems put on them. Need to launch at high altitude where orbit is stable. Have a lot of investors. Featured in NASA list of global tech companies.
+- singapore got companies trying to build rocket labs. up to 2 years ago still trying to get system working, never build rocket, so not sustainable. space tech is very capital intensive. Aliena company trying to get people to invest in very low earth orbit. 

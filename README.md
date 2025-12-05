@@ -209,3 +209,5 @@ Find different ways of producing simulation results so that results will be bett
 For eg. taking a magnetogram map earlier in time as input, does it make the comparison better. 
 Our job is to show people how to optimise model output. 
 The more scenarios we validate against, the better we understand the model and how it compares to real-life events. 
+Finish before end of the year. 
+Come up with some ideas on how to validate. 

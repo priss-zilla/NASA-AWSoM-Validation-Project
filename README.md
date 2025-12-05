@@ -202,3 +202,4 @@ No point using hourly average as it makes data worse.
 Datasets not continuous,so prone to errors in analysis. 
 Theoretically, awsom ahould be more accurate. 
 Next step: Apply Euclidean distances and DTW. 
+Do the same process for CR2235. 

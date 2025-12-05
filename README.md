@@ -178,6 +178,7 @@ https://github.com/SamaraEvangelia/DTW_ForSolarWindEvaluation
 - people don't know how companies who succeed first fail.
 - our generation has the potential to combine science and business.
 
+## Meeting 5/12/2025
 USRA provides J1 visa University Space Research Association. 
 But GK's funding is in CUA. 
 GSFC cannot hire international students. 
@@ -190,3 +191,14 @@ Annual revenue: range needed
 Number of full time employees for that location 
 GK can hire me through CUA to pay me additional amount. 
 Within CUA is too ex.
+
+
+Looking at fluctuations is for 4-5 days of data.
+Smoothing out is to look at longer trend. 
+If not, we would use minutes data set rather than hourly average. 
+Plot all the scattered data points with the smooth curves to check for artificial interpolations. Points are sparse likely because they are hourly averages. Orbit-average data used for drivers merge. 
+Sinusoidal points for temperature at 08-25 is likely artificial. 
+No point using hourly average as it makes data worse. 
+Datasets not continuous,so prone to errors in analysis. 
+Theoretically, awsom ahould be more accurate. 
+Next step: Apply Euclidean distances and DTW. 

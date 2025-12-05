@@ -146,7 +146,7 @@ European Geophysical Conference in Vienna. Nice place to travel solo. 3 - 8 May.
 https://iopscience.iop.org/article/10.3847/1538-4357/ac4af6
 https://github.com/SamaraEvangelia/DTW_ForSolarWindEvaluation
 
-Meeting 7/11/2025:
+## Meeting 7/11/2025:
 - Check J-1 visa stuff. Need to know how to initiate, is it expensive.
 - UMaryland leading consortium of universities for astrophysics research. Heliophysics led by CUA.
 - without the science, cannot get tech companies to do what they want to do. Are there observatories

@@ -124,7 +124,7 @@ If the sun were not moving, magnetic field will go out radially. But solar wind 
 It is always the plasma that controls magnetic field. 
 Since B field is connected to Sun, shape will change, will no longer go out radially. Parker spiral indicates whether planets are magnetically connected. 
 Magnetic field and ballerina skirt permeate entire space. 
-Part 1: Test data when Mars and Earth are magnetically aligned. Test hypothesis that B field comparison is better. 
+Part 1: Test data when Mars and Earth are magnetically aligned. Test hypothesis that B field comparison is better. But Mars-Earth-Sun not often magnetically connected. Creative way is how to change input parameters 
 Part 2: Earth and Mars sometimes magnetically connected and disconnected. But what happens when they are both not radially aligned and not magnetically connected. 
 Part 3: Find an event where Earth and Mars is aligned, if there is a CME going through Earth and Mars. See if arrival time at Mars predicted by AWSoM is the same as what was observed by data. CME goes in straight line, does not care if planets are magnetically connected or not. If Earth and Mars are not aligned but CME goes through Mars, see whether CME predictions by AWSoM with Earth inputs are accurate. Also see if magntiude as predicted by the model itself is the same as what was observed on Earth and Mars. 
 
@@ -203,3 +203,9 @@ Datasets not continuous,so prone to errors in analysis.
 Theoretically, awsom ahould be more accurate. 
 Next step: Apply Euclidean distances and DTW. 
 Do the same process for CR2235. 
+
+Challenging parts is innovative way of how to compare predictions. 
+Find different ways of producing simulation results so that results will be better. 
+For eg. taking a magnetogram map earlier in time as input, does it make the comparison better. 
+Our job is to show people how to optimise model output. 
+The more scenarios we validate against, the better we understand the model and how it compares to real-life events. 

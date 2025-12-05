@@ -176,4 +176,17 @@ https://github.com/SamaraEvangelia/DTW_ForSolarWindEvaluation
 - Spectra Q does quantum encrypting for space communication.
 - space-tech takes time and a lot of money to get there. that's why a lot of them fail, we only hear the survivors. 
 - people don't know how companies who succeed first fail.
-- our generation has the potential to combine science and business. 
+- our generation has the potential to combine science and business.
+
+USRA provides J1 visa University Space Research Association. 
+But GK's funding is in CUA. 
+GSFC cannot hire international students. 
+NASA pausing official internship for Americans. 
+
+Need workers' compensation policy
+Training plan 
+Employment Identification Number 
+Annual revenue: range needed 
+Number of full time employees for that location 
+GK can hire me through CUA to pay me additional amount. 
+Within CUA is too ex.

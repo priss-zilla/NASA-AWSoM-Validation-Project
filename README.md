@@ -211,7 +211,7 @@ Our job is to show people how to optimise model output.
 The more scenarios we validate against, the better we understand the model and how it compares to real-life events. 
 Finish before end of the year. 
 
-##Meeting 10/12/2025
+## Meeting 10/12/2025
 Need to justify why 12% is a significant value for getting significant frequency powers for AWSoM. 
 Need to be consistent in filtering process. 
 leave y-scale in fft spectrum from 10^-2 onwards.
@@ -223,3 +223,5 @@ Something wrong with the paths. Why are there horizontal straight lines?
 Code GK sent me uses what exactly the paper does. Probably contains time window factor too. 
 Try to use smaller bin for histogram distance distributions. And use median. Mean, median, standard deviation and error of the mean. 
 diff distribution is most useful
+mean value means nothing for double peak distribution. mean is basically between the peaks. 
+Keep point-by-point differences plots. 

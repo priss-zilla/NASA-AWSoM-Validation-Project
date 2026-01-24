@@ -226,8 +226,8 @@ diff distribution is most useful
 mean value means nothing for double peak distribution. mean is basically between the peaks. 
 Keep point-by-point differences plots. 
 
-#Meeting 16/1/2026##
-## Make the window larger
-## Plot every 10 lines. 
-## Thicken green lines.
-## Do the histogram too.
+## Meeting 16/1/2026
+Make the window larger
+Plot every 10 lines. 
+Thicken green lines.
+Do the histogram too.

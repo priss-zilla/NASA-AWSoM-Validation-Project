@@ -238,4 +238,5 @@ Do the histogram too.
 - When you see horizontal or vertical lines in DTW path, means single point of one variable is mapping to multiple points on the other.
 - Some people use weighting to solve overmapping problem. Research a bit to see if people have tried interesting ways to resolve overmapping.
 - AWSoM is earlier than MAVEN based on mappings. Overmapping is quite bad.
-- Do up histogram for DTW too. 
+- Do up histogram for DTW too.
+- Question is under what conditions are comparisons. 

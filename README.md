@@ -228,6 +228,14 @@ Keep point-by-point differences plots.
 
 ## Meeting 16/1/2026
 Make the window larger
-Plot every 10 lines. 
+Plot every 10 lines. Creates 2x10 matrix. 
 Thicken green lines.
 Do the histogram too.
+
+## Meeting 24/1/2026
+- For DTW, plot less lines to see what the algorithm is trying to do.
+- To resolve overmapping, need to reduce window. But not sufficient as may impose too much restrictions on parts that do not overmap. 
+- When you see horizontal or vertical lines in DTW path, means single point of one variable is mapping to multiple points on the other.
+- Some people use weighting to solve overmapping problem. Research a bit to see if people have tried interesting ways to resolve overmapping.
+- AWSoM is earlier than MAVEN based on mappings. Overmapping is quite bad.
+- Do up histogram for DTW too. 

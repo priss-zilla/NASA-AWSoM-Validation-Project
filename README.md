@@ -249,4 +249,5 @@ Do the histogram too.
 - SG needs to reduce uncertainty of what to do with satellites in response to Geomagnetic storm. 
 - Agency coming out in April. Pay more attention to what they want. 4 major points in their announcement. Follow what they want.
 - If they are doing something for space situational awareness, may pivot the project to Earth.
-- Temperature not doing well. See if CR2235 does better than put into abstract. 
+- Temperature not doing well. See if CR2235 does better than put into abstract.
+- Use maven data for CR2235 dates.

@@ -241,4 +241,10 @@ Do the histogram too.
 - Do up histogram for DTW too.
 - Question is under what conditions are comparisons.
 - Plot out same things for CR2235.
-- Try to confirm suspicions from DTW via Euclidean matching. 
+- Try to confirm suspicions from DTW via Euclidean matching.
+
+## Meeting 6/2/2026
+- Research to operation should be the focus
+- SG needs to find it's own niche area
+- SG needs to reduce uncertainty of what to do with satellites in response to Geomagnetic storm. 
+- Agency coming out in April. Pay more attention to what they want. 4 major points in their announcement. Follow what they want. 

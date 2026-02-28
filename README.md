@@ -251,3 +251,6 @@ Do the histogram too.
 - If they are doing something for space situational awareness, may pivot the project to Earth.
 - Temperature not doing well. See if CR2235 does better than put into abstract.
 - Use maven data for CR2235 dates.
+
+## Meeting 28/2/2026
+Increase MAVEN data date to october 7. Keep awsom dates. MAVEN data skips october 5. 

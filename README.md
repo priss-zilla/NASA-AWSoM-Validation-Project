@@ -253,4 +253,7 @@ Do the histogram too.
 - Use maven data for CR2235 dates.
 
 ## Meeting 28/2/2026
-Increase MAVEN data date to october 7. Keep awsom dates. MAVEN data skips october 5. 
+- Increase MAVEN data date to october 7. Keep awsom dates. MAVEN data skips october 5. 
+- Affects FFT filtering with spike there. Have negative density which is weird. 
+- Read part on SSF and skill score. Mean model of prediction model gives straight line which is worst case comparision between observation and prediction. 
+- Do current DTW comparison, then add mean model comparison.

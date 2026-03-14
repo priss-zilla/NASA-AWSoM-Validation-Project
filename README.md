@@ -260,4 +260,11 @@ Do the histogram too.
 - Print out skill score (average from mean model) and SSF(average by foreignors).
 - CR2234 not as good as CR2235.
 What does SG have that US wants?
-Mission Space company. 
+Mission Space company.
+
+## Meeting 14/3/2026
+
+- Plot mapping distributions, expected time shift very small but big velocity deviations.
+- Put results together in slides. Present comparisons, overplotting of 2 curves (show interpolation and original result), show distribution of delta v, delta b and delta T, delta n (x-axes), y-axis is number of data points.
+- Gang Kai at NGSFC from mid june. COSPAR starts in 1 Aug. 
+

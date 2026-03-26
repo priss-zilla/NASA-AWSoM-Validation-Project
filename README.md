@@ -268,3 +268,65 @@ Mission Space company.
 - Put results together in slides. Present comparisons, overplotting of 2 curves (show interpolation and original result), show distribution of delta v, delta b and delta T, delta n (x-axes), y-axis is number of data points.
 - Gang Kai at NGSFC from mid june. COSPAR starts in 1 Aug. 
 
+## Meeting 26/3/2026 with Model Devlopers
+more CRs will be better.
+solar minimum is much more reliable. 
+solar orbital only started to have observations a few years ago.
+when solar orbital starts to operate, most of the time is in solar maximum. 
+
+when earth and mars are not radially aligned, we would not expect the predictions at mars will be very good.
+parker spiral. 
+
+no way to play around with what we put into the awsom model to get them to agree well.
+
+sun is rotating, info that we obtain from east or west side. 1 side is few days before, other side is 20 days before for observations. 
+
+looking directly at centre of map is current observation. parker spiral on one side may have less effects. one side comparison may be better than the other. old observations may be from older carrington rotations. 
+
+adapt gong is using flux transport model. sun would have changed significantly after 20 days. so prediction may be better at solar minimum. 
+
+must take into account rotation of the sun. 
+as a test, see how they are connected with parker spiral. 2235 is radially aligned but not on the parker spiral. 2236 is aligned on the parker spiral. 
+
+2239, mars is radially aligned on parker spiral, observations will be more recent.
+
+2236 may have better comparison. we don’t know when comparison will go bad.
+
+loosen restriction, do comparison for half of carrington rotations. exclude the part inside the bow shock. 
+hourly average is taken. maven records outside bow shock, not when inside. thus interpolation is done.
+
+predicted 2233 will not be good. find CR where sun, earth, mars connected with parker spiral. 
+
+5 rotations before connected, 5 after. see which ones doing good job. 
+mars will overtake earth eventually in 2235. 
+solar wind takes 4 days to reach earth, 1au, few more days to reach mars. 
+
+paper in Science aligned with parker spiral. solar orbital 
+
+location of where you want to compare the solar wind is important.
+further in CR mars and earth and magnetically connected. expect 2 days of lag as it takes 2 days for solar wind to reach mars. 
+
+do 2 crs before and 2 after first. 
+need to look into adapt reconstructions again.
+
+adapt uses data from 20 days ago to reconstruct, causes a lot of uncertainty when putting inputs into awsom. 
+
+initially understanding is that adapt reconstructs map at every point in CR.
+
+recent paper looks at observations that are magnetically connected
+
+earth and mars alignment affects magnetic field prediction.
+
+reason why using 2234 and 2235 is because we are using them at the solar minimum. sun is a magnetic dipole. 
+before and after CRs still more or less in solar minimum. 
+
+solar orbital — spacecraft orbiting around sun rn. if the solar orbital  is magnetically connected to mars, prediction will be better. awsom comparison at mars theoretically should be better. can use solar orbital to create a map to put inputs into awsom. 
+
+solar orbital is inside mercury’s orbit which is far away from the sun. 
+
+In summary:
+Figure out how ADAPT-GONG reconstructs sun mapping. Do sun rotations impact reconstructions? How does that affect inputs to AWSoM for predictions?
+How does 2-day time delay of solar wind at Mars compared to Earth affect anything?
+Solar orbital is an option for extra point perspective.
+Wait for Nishtha to generate more runs of CRs to apply DTW to.
+

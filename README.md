@@ -266,7 +266,7 @@ Mission Space company.
 
 - Plot mapping distributions, expected time shift very small but big velocity deviations.
 - Put results together in slides. Present comparisons, overplotting of 2 curves (show interpolation and original result), show distribution of delta v, delta b and delta T, delta n (x-axes), y-axis is number of data points.
-- Gang Kai at NGSFC from mid june. COSPAR starts in 1 Aug. 
+- Gang Kai at GSFC from mid june. COSPAR starts in 1 Aug. 
 
 ## Meeting 26/3/2026 with Model Devlopers
 more CRs will be better.

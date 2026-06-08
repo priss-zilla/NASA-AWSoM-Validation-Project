@@ -331,8 +331,16 @@ Solar orbital is an option for extra point perspective.
 Wait for Nishtha to generate more runs of CRs to apply DTW to.
 
 ## Meeting 8/6/2026
-# Agenda
+## Agenda
 - Discuss URECA report content and structure
 - Discuss NASA poster presentation content and structure
 - Discuss goals for COSPAR presentation and FYP report
-
+  
+Tasks:
+- Go to CCMC, run ASWSoM_R and compare with Nishtha's runs.
+- Start searching internet for a lot of articles on quantifying model validation
+- Maria M. Kuznetsova Paper: Assessment of space weather modeling capabilities and transition to operations. She will be at the space weather workshop.
+- From Nishtha's paper, branch out into the scoreboard. Look at what metric scores others use to quantify validation. I am using DTW. What other methods can I use to quantify whether the prediction in accurate. Now it's important to have deep dive into prediction. In research, assess the quality of each metric score.
+- Paper: Analog-based forecasting
+- Effective reading: Read introduction, look at results and figures. Look at methods. See if they can be applied to my projects. To get this into motivation part of my project. Compare my results to theirs. See how they interpret their results and apply to my own. Gain same way of getting their conclusion into my own.
+- Look into old paper to get SSF and skill score. Figure out how they derive denominator in the SSF. 

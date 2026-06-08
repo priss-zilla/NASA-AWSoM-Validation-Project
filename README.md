@@ -330,3 +330,9 @@ How does 2-day time delay of solar wind at Mars compared to Earth affect anythin
 Solar orbital is an option for extra point perspective.
 Wait for Nishtha to generate more runs of CRs to apply DTW to.
 
+## Meeting 8/6/2026
+# Agenda
+- Discuss URECA report content and structure
+- Discuss NASA poster presentation content and structure
+- Discuss goals for COSPAR presentation and FYP report
+

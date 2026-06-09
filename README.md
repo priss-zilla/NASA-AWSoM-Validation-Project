@@ -351,4 +351,4 @@ Tasks:
  - Run on CCMC and form comparisons
  - Look at 2 paper's methods
  - Outline URECA report
- - Read space weather lectures
+ - Read space weather lectures + learn about GMR

@@ -343,4 +343,12 @@ Tasks:
 - From Nishtha's paper, branch out into the scoreboard. Look at what metric scores others use to quantify validation. I am using DTW. What other methods can I use to quantify whether the prediction in accurate. Now it's important to have deep dive into prediction. In research, assess the quality of each metric score.
 - Paper: Analog-based forecasting
 - Effective reading: Read introduction, look at results and figures. Look at methods. See if they can be applied to my projects. To get this into motivation part of my project. Compare my results to theirs. See how they interpret their results and apply to my own. Gain same way of getting their conclusion into my own.
-- Look into old paper to get SSF and skill score. Figure out how they derive denominator in the SSF. 
+- Look into old paper to get SSF and skill score. Figure out how they derive denominator in the SSF.
+
+ ## To-do 9/6/2026
+ - Review old codes and some basic modifications
+ - Review Maria M. Kuznetsova Paper -- SSF & skill score.
+ - Run on CCMC and form comparisons
+ - Look at 2 paper's methods
+ - Outline URECA report
+ - Read space weather lectures

@@ -359,4 +359,5 @@ Tasks:
 - Check how key connections are chosen. Supposed to have consistent gaps in mapping but now it's too varied. This affects DTW score.
 - Points in mappings lining up along time window. Means window is too restrictive. Try to increase and see how SSF relates to it. If they change a lot with time window, means very sensitive to time window. Then have to optimise time window. Optimal means lowest SSF. But if no minimum (does not converge), then have to choose a specific time window and justify it with citation.
 - Time window causes the size of green strip. If points line up along green strip, means window too restrictive. 
-- Before workshop, familiarize with R202R. 
+- Before workshop, familiarize with R202R.
+- Need to introduce magnetohyrdrodynamics equations in URECA paper. Use nishtha's paper for that.

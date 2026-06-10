@@ -361,3 +361,4 @@ Tasks:
 - Time window causes the size of green strip. If points line up along green strip, means window too restrictive. 
 - Before workshop, familiarize with R202R.
 - Need to introduce magnetohyrdrodynamics equations in URECA paper. Use nishtha's paper for that.
+- Michigan model (SWMF) is a very big framework. Solar wind model, solar physics model, CME model, planetary ionosphere model.

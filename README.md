@@ -357,4 +357,4 @@ Tasks:
 - Need to justify why reference model is 0. But just find the bug.
 - Look at Section 4.2 of paper and plot distribution of differences. 
 - Check how key connections are chosen. Supposed to have consistent gaps in mapping but now it's too varied. This affects DTW score.
-- Points in mappings lining up along time window. Means window is too restrictive. Try to increase and see how SSF relates to it. If they change a lot with time window, means very sensitive to time window. Then have to optimise time window.
+- Points in mappings lining up along time window. Means window is too restrictive. Try to increase and see how SSF relates to it. If they change a lot with time window, means very sensitive to time window. Then have to optimise time window. Optimal means lowest SSF. But if no minimum (does not converge), then SSF does not work. 

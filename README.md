@@ -362,3 +362,4 @@ Tasks:
 - Before workshop, familiarize with R202R.
 - Need to introduce magnetohyrdrodynamics equations in URECA paper. Use nishtha's paper for that.
 - Michigan model (SWMF) is a very big framework. Solar wind model, solar physics model, CME model, planetary ionosphere model.
+- https://clasp.engin.umich.edu/research/theory-computational-methods/space-weather-modeling-framework/ Michigan framework to read through.

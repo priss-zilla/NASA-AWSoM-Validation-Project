@@ -355,3 +355,4 @@ Tasks:
 
 ## Meeting 10/6/2026
 Need to justify why reference model is 0. But just find the bug.
+Look at Section 4.2 of paper and find distribution of differences. 

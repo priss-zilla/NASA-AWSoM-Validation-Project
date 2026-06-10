@@ -356,4 +356,5 @@ Tasks:
 ## Meeting 10/6/2026
 - Need to justify why reference model is 0. But just find the bug.
 - Look at Section 4.2 of paper and plot distribution of differences. 
-- Check how key connections are chosen. Supposed to have consistent gaps in mapping but now it's too varied. This affects DTW score. 
+- Check how key connections are chosen. Supposed to have consistent gaps in mapping but now it's too varied. This affects DTW score.
+- Points in mappings lining up along time window. Means window is too restrictive. Try to increase and see how SSF relates to it. 

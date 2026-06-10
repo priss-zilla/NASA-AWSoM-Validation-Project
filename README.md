@@ -352,3 +352,6 @@ Tasks:
  - Look at 2 paper's methods
  - Outline URECA report
  - Read space weather lectures + learn about GMR
+
+## Meeting 10/6/2026
+Need to justify why reference model is 0. But just find the bug.

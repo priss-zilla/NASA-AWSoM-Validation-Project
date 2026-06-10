@@ -363,3 +363,4 @@ Tasks:
 - Need to introduce magnetohyrdrodynamics equations in URECA paper. Use nishtha's paper for that.
 - Michigan model (SWMF) is a very big framework. Solar wind model, solar physics model, CME model, planetary ionosphere model.
 - https://clasp.engin.umich.edu/research/theory-computational-methods/space-weather-modeling-framework/ Michigan framework to read through.
+- Papers to read: Continuous solar wind forcing knowledge: Providing continuous conditions at Mars with the WSA-ENLIL + Cone model, Solar wind forcing at Mercury: WSA-ENLIL model results (GK's undergrad paper), Assessment of space weather modeling capabilities and transition to operations, Validation of the Alfvén Wave Solar Atmosphere Model (AWSoM) with Observations from the Low Corona to 1 au (AWSoM validation at Earth by Nishtha; can find useful equations here)

@@ -376,4 +376,6 @@ Tasks:
 - NASA proposal require science questions and sub questions. Science questions should build on top of the previous ones. 
 - Proposals built on reviewed published papers that show unresolved questions are more likely to be accepted.
 - Silicon is one of main component in rocks.
+- Influx of extraterrestrial particles are mostly from small meteoroids. Particles entering Mars atmosphere form metallic layers (Santiago's proposal)
+
 

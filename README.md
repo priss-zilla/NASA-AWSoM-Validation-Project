@@ -365,3 +365,10 @@ Tasks:
 - https://clasp.engin.umich.edu/research/theory-computational-methods/space-weather-modeling-framework/ Michigan framework to read through.
 - Papers to read: Continuous solar wind forcing knowledge: Providing continuous conditions at Mars with the WSA-ENLIL + Cone model, Solar wind forcing at Mercury: WSA-ENLIL model results (GK's undergrad paper), Assessment of space weather modeling capabilities and transition to operations, Validation of the Alfvén Wave Solar Atmosphere Model (AWSoM) with Observations from the Low Corona to 1 au (AWSoM validation at Earth by Nishtha; can find useful equations here)
 - solar flare paper: solar flare don't have spatial scale issue as protons travel in 1 straight line, whereas solar wind is across big spatial scale of observation and prediction. But solar flare prediction may have very small time scale issue as time it takes to travel from sun to earth is 8 minutes, for CMEs is 3 days.
+
+## NASA Meeting 16/6/2026
+- Radiation shielding has been a big topic for a decade.
+- SEPs go up to GeV. More harmful than GCRs.
+- Solar wind affects samples returning from lunar surface. Affects data analysis of original sample before travel.
+- Read Li Xian's paper on the impacts of solar wind on samples (general review paper)
+

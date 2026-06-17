@@ -391,5 +391,5 @@ ESCAPADE Data Review Meeting:
 - Need to zoom into data for minutes and seconds anomalies.
 - Thruster magnetotail
 - Pretty skeptical about finding data for data gaps. 
-
-
+- June space weather event for both spacecraft was strikingly similar and worth paying attention to.
+- not similar in magnetotail. 

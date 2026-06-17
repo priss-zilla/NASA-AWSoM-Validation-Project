@@ -373,6 +373,7 @@ Tasks:
 - Read Li Xian's paper on the impacts of solar wind on samples (general review paper)
 
 ## NASA Meeting 17/6/2026
-NASA proposal require science questions and sub questions. Science questions should build on top of the previous ones. 
-Proposals built on reviewed published papers that show unresolved questions are more likely to be accepted.
+- NASA proposal require science questions and sub questions. Science questions should build on top of the previous ones. 
+- Proposals built on reviewed published papers that show unresolved questions are more likely to be accepted.
+- Silicon is one of main component in rocks.
 

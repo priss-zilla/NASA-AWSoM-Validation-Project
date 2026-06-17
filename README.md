@@ -380,7 +380,7 @@ Tasks:
   
 ESCAPADE Data Review Meeting:
 - 2 spacecraft
-- One of it to eventually go to Mars
+- Both eventually go to Mars
 - Tracking of flux tube
 - Mars is a non magnetised planet
 - Need to be more well equipped to deal with multi point measurements.
@@ -394,3 +394,5 @@ ESCAPADE Data Review Meeting:
 - June space weather event for both spacecraft was strikingly similar and worth paying attention to.
 - not similar in magnetotail. 
 - plasma sheet affects magnetic field data
+- once both on their journey to Mars, will have 8 months of solar wind data to analyse.
+- can assume spacecrafts on circular orbit around Mars. 

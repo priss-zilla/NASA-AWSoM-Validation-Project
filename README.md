@@ -377,5 +377,19 @@ Tasks:
 - Proposals built on reviewed published papers that show unresolved questions are more likely to be accepted.
 - Silicon is one of main component in rocks.
 - Influx of extraterrestrial particles are mostly from small meteoroids. Particles entering Mars atmosphere form metallic layers (Santiago's proposal). Si, Fe and Al have relevance or potential relevance (Al) to ablation by meteoroids in Martian atmosphere.
+  
+ESCAPADE Data Review Meeting:
+- 2 spacecraft
+- One of it to eventually go to Mars
+- Tracking of flux tube
+- Mars is a non magnetised planet
+- Need to be more well equipped to deal with multi point measurements.
+- SIR space weather event in early June.
+- During space weather event, they match up vey nicely despite a few REs apart. But diverge reasonable amount outside space weather event.
+- Big data gap in March 3rd. March data very uncorrelated.
+- Flapping waves are related to reconnection theoretically
+- Need to zoom into data for minutes and seconds anomalies.
+- Thruster magnetotail
+- Pretty skeptical about finding data for data gaps. 
 
 

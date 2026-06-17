@@ -396,5 +396,4 @@ ESCAPADE Data Review Meeting:
 - plasma sheet affects magnetic field data
 - once both on their journey to Mars, will have 8 months of solar wind data to analyse.
 - can assume spacecrafts on circular orbit around Mars. 
-<img width="4032" height="3024" alt="tempImageTcbZN7" src="https://github.com/user-attachments/assets/a3560e13-17ed-4c00-82ca-c22dc93da345" />
-
+<img width="4284" height="5712" alt="tempImagerP5EgV" src="https://github.com/user-attachments/assets/0bebaee1-57b2-43ae-a6ed-75a8b877fb2d" />

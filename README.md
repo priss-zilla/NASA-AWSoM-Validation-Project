@@ -433,4 +433,6 @@ Questions Connecting to Code 695 & 674 (Planetary Magnetospheres & Space Weather
  - Fluxgates vulnerable to temperature fluctuations, therefore engineered to maintain constant temp at 40 degrees celsius
  - Engineering of magnetometers quite different from solar wind particle sensors. SW sensors require detecting of individual particles and converting them into power signals, which should cause longer delays than magnetmeters that detect magnetic flux.
  - Parker solar probe is the fastest thing engineered on Earth. Contains a heat shield as it is already within the Sun's atmosphere, solar panels are shielded but should be quite hot. Magnetometers however, have extremely low temperatures of -200 degrees celsius inside shielding. Took a billion dollars to deploy it, one of the most advanced human space missions.
- - Good to understand tech of magnetometers and how they work alongside SW particle sensors. 
+ - Good to understand tech of magnetometers and how they work alongside SW particle sensors.
+<img width="1602" height="1356" alt="0D81DC34-98A0-4482-A928-9960BA182C68" src="https://github.com/user-attachments/assets/696e94f4-1b5e-49aa-b8fb-ae6588c498fb" />
+CR2234 SW Run Details

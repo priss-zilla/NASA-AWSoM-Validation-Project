@@ -438,7 +438,7 @@ Questions Connecting to Code 695 & 674 (Planetary Magnetospheres & Space Weather
 <img width="2342" height="1398" alt="A437CD34-0C18-4857-A9E9-2DEA7ED7D9C0" src="https://github.com/user-attachments/assets/c82579d5-a404-4e77-a21a-8ac1625646a0" />
 CR2234 SW Run Details
 
-SWMF AWSoM/AWSoM-R Architecture:
+# SWMF AWSoM/AWSoM-R Architecture:
 
 MAGNETOGRAM
       │

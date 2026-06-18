@@ -437,3 +437,99 @@ Questions Connecting to Code 695 & 674 (Planetary Magnetospheres & Space Weather
 <img width="1602" height="1356" alt="0D81DC34-98A0-4482-A928-9960BA182C68" src="https://github.com/user-attachments/assets/696e94f4-1b5e-49aa-b8fb-ae6588c498fb" />
 <img width="2342" height="1398" alt="A437CD34-0C18-4857-A9E9-2DEA7ED7D9C0" src="https://github.com/user-attachments/assets/c82579d5-a404-4e77-a21a-8ac1625646a0" />
 CR2234 SW Run Details
+
+SWMF AWSoM/AWSoM-R Architecture:
+MAGNETOGRAM
+      │
+      ▼
+SC COMPONENT
+-----------------
+Physics:
+  AWSoM-R
+
+Solver:
+  BATS-R-US
+
+Output:
+  ρ,v,T,B
+  at ~20 Rs
+-----------------
+      │
+      ▼
+IH COMPONENT
+-----------------
+Physics:
+  AWSoM-R
+
+Solver:
+  BATS-R-US
+
+Input:
+  SC boundary
+
+Output:
+  ρ,v,T,B
+  throughout planetary region
+-----------------
+      │
+      ▼
+OH COMPONENT
+-----------------
+Physics:
+  AWSoM-R
+  +
+  Neutral model
+
+Solver:
+  BATS-R-US
+  +
+  Particle Tracker
+  or multi-fluid neutrals
+
+Input:
+  IH boundary
+  LISM conditions
+
+Output:
+  Heliosphere
+  termination shock
+  heliopause
+  neutral distributions
+-----------------
+Magnetogram
+      │
+      ▼
+EEGGL / EEGTD
+      │
+      ▼
+Flux rope
+      │
+      ▼
+Inserted into SC
+      │
+      ▼
+CME
+      │
+      ▼
+IH
+      │
+      ▼
+OH
+Models
+AWSoM
+AWSoM-R
+EEGGL
+EEGTD
+Multi-fluid neutral model
+Particle Tracker
+Solver
+BATS-R-US
+Domains/components
+SC
+IH
+OH
+Framework
+SWMF
+Initialization/generation module
+EE
+This separation between physics model, solver, simulation domain, and framework is the key to understanding SWMF's architecture.

@@ -367,6 +367,7 @@ Tasks:
 - solar flare paper: solar flare don't have spatial scale issue as protons travel in 1 straight line, whereas solar wind is across big spatial scale of observation and prediction. But solar flare prediction may have very small time scale issue as time it takes to travel from sun to earth is 8 minutes, for CMEs is 3 days.
 
 ## NASA Meeting 16/6/2026
+Li Xian's Research:
 - Radiation shielding has been a big topic for a decade.
 - SEPs go up to GeV. More harmful than GCRs.
 - Solar wind affects samples returning from lunar surface. Affects data analysis of original sample before travel.
@@ -424,3 +425,12 @@ Questions About Data Calibration & Reliability
 Questions Connecting to Code 695 & 674 (Planetary Magnetospheres & Space Weather Labs)
  14 How does your work at the Planetary Magnetospheres Lab (Code 695) complement the forecasting work done by the Space Weather Lab (Code 674) when it comes to protecting astronauts?
  15 What is one thing you wish astronauts or mission planners understood better about the radiation environment you study?
+
+ ## NASA Planetary Magnetospheres Lab with Bill
+ - Fluxgates are a type of magnetometer
+ - Fluxgates tend to experience offset due to wire loops and space envt noise (e.g. magnetic fields created by solar wind)
+ - Fluxgates need to be calibrated with quantum sensors (aka scalar sensors) which give absolute values. But quantum sensors are limited in magnetic field detected range (either very high or very low). Usually best used for testing of magnetometers. 
+ - Fluxgates vulnerable to temperature fluctuations, therefore engineered to maintain constant temp at 40 degrees celsius
+ - Engineering of magnetometers quite different from solar wind particle sensors. SW sensors require detecting of individual particles and converting them into power signals, which should cause longer delays than magnetmeters that detect magnetic flux.
+ - Parker solar probe is the fastest thing engineered on Earth. Contains a heat shield as it is already within the Sun's atmosphere, solar panels are shielded but should be quite hot. Magnetometers however, have extremely low temperatures of -200 degrees celsius inside shielding. Took a billion dollars to deploy it, one of the most advanced human space missions.
+ - Good to understand tech of magnetometers and how they work alongside SW particle sensors. 

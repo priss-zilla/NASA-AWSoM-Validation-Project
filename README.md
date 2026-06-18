@@ -435,6 +435,5 @@ Questions Connecting to Code 695 & 674 (Planetary Magnetospheres & Space Weather
  - Parker solar probe is the fastest thing engineered on Earth. Contains a heat shield as it is already within the Sun's atmosphere, solar panels are shielded but should be quite hot. Magnetometers however, have extremely low temperatures of -200 degrees celsius inside shielding. Took a billion dollars to deploy it, one of the most advanced human space missions.
  - Good to understand tech of magnetometers and how they work alongside SW particle sensors.
 <img width="1602" height="1356" alt="0D81DC34-98A0-4482-A928-9960BA182C68" src="https://github.com/user-attachments/assets/696e94f4-1b5e-49aa-b8fb-ae6588c498fb" />
-<img width="1602" height="1356" alt="0D81DC34-98A0-4482-A928-9960BA182C68" src="https://github.com/user-attachments/assets/368f2ca0-c56a-4c97-8ea3-315ba6ddfee3" />
+<img width="2342" height="1398" alt="A437CD34-0C18-4857-A9E9-2DEA7ED7D9C0" src="https://github.com/user-attachments/assets/c82579d5-a404-4e77-a21a-8ac1625646a0" />
 CR2234 SW Run Details
-

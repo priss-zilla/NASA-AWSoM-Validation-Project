@@ -490,12 +490,13 @@ Solver:
 Input:
   IH boundary
   LISM conditions
-
+  
 Output:
   Heliosphere
-  termination shock
-  heliopause
-  neutral distributions
+  Termination shock
+  Heliopause
+  Neutral distributions
+  
 -----------------
 Magnetogram
       │
@@ -516,21 +517,21 @@ IH
       │
       ▼
 OH
-Models
-AWSoM
-AWSoM-R
-EEGGL
-EEGTD
-Multi-fluid neutral model
-Particle Tracker
-Solver
-BATS-R-US
-Domains/components
-SC
-IH
-OH
-Framework
-SWMF
-Initialization/generation module
-EE
+## Models
+- AWSoM
+- AWSoM-R
+- EEGGL
+- EEGTD
+## Multi-fluid neutral model
+- Particle Tracker
+## Solver
+- BATS-R-US
+## Domains/components
+- SC
+- IH
+- OH
+## Framework
+- SWMF
+## Initialization/generation module
+- EE
 This separation between physics model, solver, simulation domain, and framework is the key to understanding SWMF's architecture.

@@ -397,3 +397,30 @@ ESCAPADE Data Review Meeting:
 - once both on their journey to Mars, will have 8 months of solar wind data to analyse.
 - can assume spacecrafts on circular orbit around Mars. 
 <img width="4284" height="5712" alt="tempImagerP5EgV" src="https://github.com/user-attachments/assets/0bebaee1-57b2-43ae-a6ed-75a8b877fb2d" />
+
+Questions About SEP Warning Time & Detection
+ 1 Based on your work with MAVEN's magnetometer data, how much warning time do astronauts actually have between detecting a solar flare and the arrival of dangerous particles?
+ 2 Are the instruments we currently put on spacecraft sensitive enough to give astronauts reliable, timely warnings to get to shelter?
+ 3 Can the solar wind interactions you study upstream of Mars act as an early "alarm bell" for incoming radiation events?
+
+Questions About SEP Energy & Health Effects
+ 4 From your research on the composition of solar ejecta, how energetic are the particles that astronauts would encounter during a large solar event?
+ 5 At those energy levels, how long could an astronaut be exposed before experiencing serious health effects—are we talking minutes, hours, or days?
+ 6 Does the energy of the particles change what kind of shielding is most effective against them?
+
+Questions About Shielding (Water Tanks vs. Mass on Mars)
+ 7 In your opinion, is a water tank shield sufficient to protect astronauts from a major solar particle event during a Mars transit?
+ 8 I've heard that radiation shielding is actually less of a concern for Mars missions than lunar missions because Mars missions carry more supplies and cargo that can act as shielding. Do you agree with that logic based on what you've observed at Mars?
+ 9 What is the single most effective shielding material or strategy you would recommend for deep space missions, based on your understanding of the radiation environment?
+
+Questions About Mars' Magnetic Environment & Surface Protection
+ 10 Your 3D model of Mars' bow shock showed it is not symmetrical because of crustal magnetic fields. Does that non-symmetry affect how much radiation reaches different parts of the Martian surface?
+ 11 Do those localized crustal magnetic fields on Mars provide any meaningful protection for astronauts on the surface, or is the effect negligible?
+
+Questions About Data Calibration & Reliability
+ 12 Your work includes calibrating and validating magnetometer data to ensure accuracy. How confident are we that the radiation sensors and detectors on spacecraft give us accurate, real-time data that mission control and astronauts can trust?
+ 13 What is the biggest gap or uncertainty in our current ability to predict and respond to space weather events for human spaceflight?
+
+Questions Connecting to Code 695 & 674 (Planetary Magnetospheres & Space Weather Labs)
+ 14 How does your work at the Planetary Magnetospheres Lab (Code 695) complement the forecasting work done by the Space Weather Lab (Code 674) when it comes to protecting astronauts?
+ 15 What is one thing you wish astronauts or mission planners understood better about the radiation environment you study?

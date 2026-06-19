@@ -535,3 +535,9 @@ OH
 ## Initialization/generation module
 - EE
 This separation between physics model, solver, simulation domain, and framework is the key to understanding SWMF's architecture.
+## To-do 19/6/2026 before Space Weather Workshop
+- Modify and improve DTW code to produce appropriate graphs for CR2234 and CR2235
+- Read 3 papers
+- Read essential lectures to prep for workshop
+- Prepare poster
+- URECA report

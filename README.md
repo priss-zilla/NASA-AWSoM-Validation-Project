@@ -535,6 +535,7 @@ OH
 ## Initialization/generation module
 - EE
 This separation between physics model, solver, simulation domain, and framework is the key to understanding SWMF's architecture.
+
 ## To-do 19/6/2026 before Space Weather Workshop
 - Modify and improve DTW code to produce appropriate graphs for CR2234 and CR2235
 - Read 3 papers
@@ -547,8 +548,10 @@ This separation between physics model, solver, simulation domain, and framework 
 - In presentation, only include direct results, no need intermediate results
 - Compare DTW between CR2234 and CR2235
 - Go through CCMC AWSoM-R results. Might have some discrepancy and may not have been optimised yet. 
-- Read papers
+- Papers to read: Continuous solar wind forcing knowledge: Providing continuous conditions at Mars with the WSA-ENLIL + Cone model, Solar wind forcing at Mercury: WSA-ENLIL model results (GK's undergrad paper), Assessment of space weather modeling capabilities and transition to operations, Validation of the Alfvén Wave Solar Atmosphere Model (AWSoM) with Observations from the Low Corona to 1 au (AWSoM validation at Earth by Nishtha; can find useful equations here)
 - Lectures
 - Run WSA-ENLIL on CCMC, select it at Mars.
 - Run susanoo nagoya as secondary study for FYP.
-- Eventually answer the question: which model has the best comparison by eye. 
+- Eventually answer the question: which model has the best comparison by eye.
+- Try Euclidean distance matching technique
+- IP Shocks will not be seen in Nishtha's simulations as physics of MHD not enough for it. For shocks to occur, alfvenic mach number (solar wind velocity/alfven velocity) must be high. 

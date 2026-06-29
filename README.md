@@ -268,7 +268,7 @@ Mission Space company.
 - Put results together in slides. Present comparisons, overplotting of 2 curves (show interpolation and original result), show distribution of delta v, delta b and delta T, delta n (x-axes), y-axis is number of data points.
 - Gang Kai at GSFC from mid june. COSPAR starts in 1 Aug. 
 
-## Meeting 26/3/2026 with Model Devlopers
+## Meeting 26/3/2026 with Model Developers
 more CRs will be better.
 solar minimum is much more reliable. 
 solar orbital only started to have observations a few years ago.
@@ -550,3 +550,5 @@ This separation between physics model, solver, simulation domain, and framework 
 - Read papers
 - Lectures
 - Run WSA-ENLIL on CCMC, select it at Mars.
+- Run susanoo nagoya as secondary study for FYP.
+- Eventually answer the question: which model has the best comparison by eye. 

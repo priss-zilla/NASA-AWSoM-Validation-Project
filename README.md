@@ -542,3 +542,11 @@ This separation between physics model, solver, simulation domain, and framework 
 - Prepare poster
 - URECA report
 - Familiarise with R202R
+
+## 29/6/2026
+- In presentation, only include direct results, no need intermediate results
+- Compare DTW between CR2234 and CR2235
+- Go through CCMC AWSoM-R results. Might have some discrepancy and may not have been optimised yet. 
+- Read papers
+- Lectures
+- Run WSA-ENLIL on CCMC, select it at Mars.

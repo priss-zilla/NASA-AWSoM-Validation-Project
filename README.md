@@ -554,4 +554,6 @@ This separation between physics model, solver, simulation domain, and framework 
 - Run susanoo nagoya as secondary study for FYP.
 - Eventually answer the question: which model has the best comparison by eye.
 - Try Euclidean distance matching technique
-- IP Shocks will not be seen in Nishtha's simulations as physics of MHD not enough for it. For shocks to occur, alfvenic mach number (solar wind velocity/alfven velocity) must be high. 
+- IP Shocks will not be seen in Nishtha's simulations as physics of MHD not enough for it. For shocks to occur, alfvenic mach number (solar wind velocity/alfven velocity) must be high.
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/f41455e6-da3d-4ee2-89f0-5a4bfa9188bc" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5f22ec90-cfbf-4a09-86c9-3dbdf2dc0e32" />

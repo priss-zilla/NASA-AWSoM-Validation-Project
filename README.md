@@ -569,6 +569,7 @@ To-do while GK is away:
 - Start preparing slides (5 in total)
 - Finish reading lectures
 - Familiarise with space weather analysis tools
+- Reminder to apply for SF conference
 
 Meeting with Director Geronimo:
 - First quantify the problem, understand how much to tweak the models. do that for a few storms. predictions in workshop were many days off, but din talk much about the model. work closely with M2M office. 

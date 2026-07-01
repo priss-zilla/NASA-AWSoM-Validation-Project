@@ -570,6 +570,6 @@ To-do while GK is away:
 - Finish reading lectures
 - Familiarise with space weather analysis tools
 
-first quantify the problem, understand how much to tweak the models. do that for a few storms. predictions in workshop were many days off, but din talk much about the model. work closely with M2M office. 
-forecasting: take model and 
-if have model and specific measurement, which one is most meaningful for prediction. get forecasting right first, need measurement at this time, at this orientation, could reduce uncertainty to 2 hours. identify most important measurement. 
+Meeting with Director Geronimo:
+- First quantify the problem, understand how much to tweak the models. do that for a few storms. predictions in workshop were many days off, but din talk much about the model. work closely with M2M office. 
+if have model and specific measurement, which one is most meaningful for prediction. get forecasting right first, need measurement at - - This time, at this orientation, could reduce uncertainty to 2 hours. identify most important measurement first to set context and simplify things, to set foundation for remaining predictions. 

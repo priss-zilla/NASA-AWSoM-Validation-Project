@@ -574,4 +574,15 @@ To-do while GK is away:
 
 Meeting with Director Geronimo:
 - First quantify the problem, understand how much to tweak the models. do that for a few storms. predictions in workshop were many days off, but din talk much about the model. work closely with M2M office. 
-- if have model and specific measurement, which one is most meaningful for prediction. get forecasting right first, need measurement at this time, at this orientation, could reduce uncertainty to 2 hours. identify most important measurement first to set context and simplify things, to set foundation for remaining predictions. 
+- if have model and specific measurement, which one is most meaningful for prediction. get forecasting right first, need measurement at this time, at this orientation, could reduce uncertainty to 2 hours. identify most important measurement first to set context and simplify things, to set foundation for remaining predictions.
+
+Notes from Maria M. Kuznetsova Paper: Assessment of space weather modeling capabilities and transition to operations
+- 3 main metrics: point-to-point, threshold-based, event-based. See if can try all three
+- p2p mainly MSE, MAE, correlation
+- Major frameworks outline validation guidelines -- ESA SWE, SPHINX, METplus, SWEVEn, CAMEL
+- Different kinds of reference models to consider using for evaluation.
+- Goal is to create accessible and convenient web-based models and validation tools for the community, which CCMC has done.
+- Mostly real-time forecasting by existing organizations like SWPC, ISWA etc.
+- Validation of model has to go through development stage then proving ground stage before building prototype towards operation.
+- Only 1 small mentioning of DTW, a lot more emphasis on prediction of events.
+- Use of scoreboards in CCMC to organize community validations. Works alongside online validation platforms.

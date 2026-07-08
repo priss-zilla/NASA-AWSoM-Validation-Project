@@ -560,7 +560,7 @@ This separation between physics model, solver, simulation domain, and framework 
 
 ## 1/7/2026
 To-do while GK is away:
-- Relook at LPF code. CR2234 B field cutoff seems weird. Relook at DTW code on overmapping plots.
+- Relook at LPF code. CR2234 B field cutoff seems weird. Relook at DTW code on overmapping plots. Relook at metrics, ensure their accuracy and determine their meanings.
 - Read Maria M. Kuznetsova Paper, Ryan Dewey paper
 - Read Continuous solar wind forcing knowledge: Providing continuous conditions at Mars with the WSA-ENLIL + Cone model
 - Read Solar wind forcing at Mercury: WSA-ENLIL model results (GK's undergrad paper)

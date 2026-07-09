@@ -586,3 +586,9 @@ Notes from Maria M. Kuznetsova Paper: Assessment of space weather modeling capab
 - Validation of model has to go through development stage then proving ground stage before building prototype towards operation.
 - Only 1 small mentioning of DTW, a lot more emphasis on prediction of events.
 - Use of scoreboards in CCMC to organize community validations. Works alongside online validation platforms.
+
+Notes from Ryan Dewey Paper: Continuous solar wind forcing knowledge: Providing continuous conditions at Mars with the WSA-ENLIL + Cone model
+- He used FFT and transformed continuous SW data into histograms for comparison, with y-axis as frequencies and x-axis as magnitude of variable. Plots compare frequencies for identified common magnitude, which is a form of p2p comparison. But limited in scope since only frequencies are compared.
+- Employs linear transformations in histogram plots to quantify scaling and offset to match observations. No temporal quantification involved.
+- Plots of scaling vs offset while simultaneously identifying level of goodness of fit, to show distribution of linear transformation for x^2 to be above 95% confidence level.
+- ICME method and results not read yet. 

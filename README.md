@@ -592,3 +592,8 @@ Notes from Ryan Dewey Paper: Continuous solar wind forcing knowledge: Providing 
 - Employs linear transformations in histogram plots to quantify scaling and offset to match observations. No temporal quantification involved.
 - Plots of scaling vs offset while simultaneously identifying level of goodness of fit, to show distribution of linear transformation for x^2 to be above 95% confidence level.
 - ICME method and results not read yet. 
+
+## Meeting 21/7
+- Create backup slides for filtered and unfiltered maven.
+- plot unfiltered, uninterpolated raw data with just points. then plot interpolation in blue. then plot interpolated+LPF curve in another colour.
+- higher order interpolations introduce artificial signals. make sure people don't question on this

@@ -597,3 +597,4 @@ Notes from Ryan Dewey Paper: Continuous solar wind forcing knowledge: Providing 
 - Create backup slides for filtered and unfiltered maven.
 - plot unfiltered, uninterpolated raw data with just points. then plot interpolation in blue. then plot interpolated+LPF curve in another colour.
 - higher order interpolations introduce artificial signals. make sure people don't question on this
+- Plot 4 graphs of maven, awsom, wsa-enlil, susanoo together as backup. do dtw for wsa-enlil using cr2235 as backup.

@@ -623,3 +623,4 @@ AWSoM starts at 1 solar radii and MHD eqns solved everywhere, AWSoM-R only solve
 - AWSoM needs hours to run. WSA-ENLIL is 1D propagation project to 3D. WSA-ENLIL is used indirectly for radiation prediction by operators. WSA-ENLIL is making solar wind predictions 24 hours. AWSoM needs to be requested and takes too much time.
 - WSA-ENLIL has been running for a long time for past 5 years.
 - AWSoM product is still in its infancy. To become operationally delivered. 
+- Pipeline without human intervention is already being done for AWSoM to work with M-FLAMPA to eventually give SEP predictions for operators to use. 

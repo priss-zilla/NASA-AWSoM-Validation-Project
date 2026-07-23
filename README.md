@@ -599,3 +599,12 @@ Notes from Ryan Dewey Paper: Continuous solar wind forcing knowledge: Providing 
 - higher order interpolations introduce artificial signals. make sure people don't question on this
 - Plot 4 graphs of maven, awsom, wsa-enlil, susanoo together as backup. do dtw for wsa-enlil using cr2235 as backup.
 - choose fixed window based on histogram, dtw visual on mapping
+
+## 23/7 Meeting with Nishtha
+- Solving MHD equations to construct 3D model for magnetosphere
+- Start with magnetic field maps. As sun rotates, take thin slice everyday to from a whole map. Carrington sypnotic map.
+- Flux transport model, using information from observations add in physics like flux transport and data assimilation. same baseline data give 12 realisations. Known as ADAPT-map realisations.
+- Only use 1 realisation for AWSoM. Run all 12 realisations and choose the best. Not much significant difference between realisations. Best realisation is the one that gives the best comparison.
+- AWSoM uses synthetic observation points to mimic MAVEN.
+- Model is much smoother than data, limited by resolution. Cannot capture small scale structures/fluctuations.
+- 3 satellites at L1. OMNI projects satellite observations to right above Earth. 

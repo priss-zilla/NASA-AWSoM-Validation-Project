@@ -607,4 +607,5 @@ Notes from Ryan Dewey Paper: Continuous solar wind forcing knowledge: Providing 
 - Only use 1 realisation for AWSoM. Run all 12 realisations and choose the best. Not much significant difference between realisations. Best realisation is the one that gives the best comparison.
 - AWSoM uses synthetic observation points to mimic MAVEN.
 - Model is much smoother than data, limited by resolution. Cannot capture small scale structures/fluctuations.
-- 3 satellites at L1. OMNI projects satellite observations to right above Earth. 
+- 3 satellites at L1. OMNI projects satellite observations to right above Earth.
+- poynting flux is dependent on magnetic field which changes at the inner boundary. does not have to be consistent for all CRs. 

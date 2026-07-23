@@ -608,4 +608,18 @@ Notes from Ryan Dewey Paper: Continuous solar wind forcing knowledge: Providing 
 - AWSoM uses synthetic observation points to mimic MAVEN.
 - Model is much smoother than data, limited by resolution. Cannot capture small scale structures/fluctuations.
 - 3 satellites at L1. OMNI projects satellite observations to right above Earth.
-- poynting flux is dependent on magnetic field which changes at the inner boundary. does not have to be consistent for all CRs. 
+- poynting flux is dependent on magnetic field which changes at the inner boundary. does not have to be consistent for all CRs.
+
+BATS-R-US is numerical solver for MHD equations.
+AWSoM combines solar corona and inner heliosphere and specifies equations/physics needed for that domain. Alfven waves, electron temps, proton temps, anisotropy, instability etc. Physics described in AWSoM, but use BATS-R-US to solve all the equations
+AWSoM goes further beyond Mars to Jupiter, but other forces taken into account so more complicated.
+AWSoM starts at 1 solar radii and MHD eqns solved everywhere, AWSoM-R only solves 1D equations at specific regions , uses less computational intensity so is faster. Up to certain height, all solving same equations. Region is near the sun where solving 1D. Even further away will solve 3D. Computational grid very small near the sun, 3D very long to solve. Solving at 1D and 3D near the sun gives differences in terms of information you want. 1D is faster, but less information. Depends on what information you want. For prediction, you want faster model, for science and research you use 3D for more information and accuracy. Anyway 1D is only for near the sun. 
+- eruptive event generator (name given to CME models) is on top of AWSoM, which gives ambient solar wind. EEG can have flux rope etc. EEG not so much model, but module within SWMF. Give you module parameters for a CME, gives initial conditions for prescribing a CME from the sun. Superimposed on AWSoM. When have CME, solving same equations in the same domain. Same AWSoM model, but now with CME. Need to tell the code the initial conditions that represents the CME. No more AWSoM in outer heliosphere.
+- For SEPs, need AWSoM+EEG+M-FLAMPA. M-FLAMPA is whole model on its own that solves diffusion equations. All use BATS-R-US. These guys just tell BATS-R-US what to solve and where to solve. Outer heliosphere no more AWSoM.
+- AWSoM has been continuously running for past few months to use for predictions in research community. But not used in operations yet.
+- NOAA uses WSA-ENLIL to predict geomagnetic storms.
+- AWSoM is predicting solar wind. Geospace model by SWMF being used by SWPC to predict geomagnetic storms. Not using AWSoM.
+- Operators need predictions of what radiation will be. Don't care about solar wind. Using AWSoM in conjuction with M-FLAMPA for SEP and radiation prediction. AWSoM still being improved to make it into deliverable product for operators. Need computational resource to run it continuously.
+- AWSoM needs hours to run. WSA-ENLIL is 1D propagation project to 3D. WSA-ENLIL is used indirectly for radiation prediction by operators. WSA-ENLIL is making solar wind predictions 24 hours. AWSoM needs to be requested and takes too much time.
+- WSA-ENLIL has been running for a long time for past 5 years.
+- AWSoM product is still in its infancy. To become operationally delivered. 

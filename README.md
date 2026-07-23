@@ -624,4 +624,5 @@ AWSoM starts at 1 solar radii and MHD eqns solved everywhere, AWSoM-R only solve
 - WSA-ENLIL has been running for a long time for past 5 years.
 - AWSoM product is still in its infancy. To become operationally delivered. 
 - Pipeline without human intervention is already being done for AWSoM to work with M-FLAMPA to eventually give SEP predictions for operators to use.
-- No operators will only use 1 model, will use mutliple. 
+- No operators will only use 1 model, will use mutliple.
+- Community tries to use physics based models to predict further in the future due to how slow it is, but still limited by current information. 
